@@ -1,0 +1,27 @@
+Melhorias no site
+
+Replicar o slider dos tenis umas 3 vezes. Usar a imagem de um modelo de tenis com cores diferentes .
+
+09:58
+Aumentar caixinha dos tenis naq seção esportes e casual
+
+09:59
+Diminuir o flex-gap das caixinhas dos tenis
+
+8 sessoes
+
+10:00
+Em telas grandes, pode trazer a seção marcas para o lado de formulário de contato
+
+10:00
+Ou pensar em algum conteúdo para colocar ao lado do formulário
+
+em esportes e casual usar a propriedade flex nos itens... com growth habilitado e um basis maior
+
+10:07
+algo +- assim
+
+10:08
+flex: 1 1 300px
+
+Em telas menores, não deixar as informações do rodapé grudadas nas margens, usar with: 90% ou margin para resolver

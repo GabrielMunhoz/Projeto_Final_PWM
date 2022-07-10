@@ -1,0 +1,176 @@
+@media (min-width: 1200px){
+.container {
+    max-width: 1440px;
+}
+}
+@media (max-width:1000px) {
+    header{
+        padding-top: 5px;
+        height: 5rem;
+        align-items: center;
+    }
+    .logo{
+        display: none;
+    }
+
+    /*#region HeaderImage*/
+
+    .headerImage h2{
+        font-size: 1.5rem;
+    }
+
+    /*#endregion HeaderImage*/
+
+    /*#region Product*/
+
+    .shoes{
+        flex-wrap: wrap;
+    }
+
+    .card{
+        flex: 1 1 300px;
+    }
+
+    /*#endregion Product*/
+
+    /*#region Makes*/
+
+    .makesLogo{
+        flex-wrap: wrap;
+        gap: 30px;
+        padding: 20px;
+    }
+   
+   /*#endregion Makes*/
+
+    /*#region ContactUs*/
+    
+    .contactus{
+        flex-direction: column;
+    }
+
+    .locale iframe{
+        width: 450px;
+    }
+
+    /*#endregion ContactUs*/
+
+    /*#region Footer*/
+  
+    .footer{
+        padding: 30px;
+        flex-wrap: wrap;
+        gap: 50px;
+        }
+    
+  /*#endregion Footer*/
+
+}
+
+@media (max-width:780px) {
+    /*#region HamburgerMenu*/
+    header{
+        height: 5rem;
+        align-items: flex-end;
+        padding-bottom: 5px;
+    }
+    .logo{
+        display: none;
+    }
+    .hamburger {
+        display: flex;
+        position: absolute;
+        z-index: 100;
+        top: 35px;
+        left: 70px;
+        cursor: pointer;
+        font-size: 1.3rem;
+        border: none;
+        
+    }
+
+    .menu {
+        position: absolute;
+        transform: translateY(-100%);
+        transition: transform 0.2s;
+        top: 0;
+        left: 0;
+        right: 0;
+        z-index: 99;
+        background: black;
+        color: white;
+        list-style: none;
+        padding-top: 6rem;
+        display: flex;
+        flex-direction: column;
+        padding-left: 30px;
+        height: 300px;
+    }
+    .showMenu {
+        transform: translateY(0);
+    }
+    /*#endregion HamburgerMenu*/
+
+    /*#region HeaderImage*/
+
+    .headerImage h3{
+        font-size: 1rem;
+    }
+
+    /*#endregion HeaderImage*/
+
+    /*#region Slider*/
+
+    .sliderSlick .card{
+        max-width: 100%;
+        }
+
+    /*#endregion Slider*/
+
+    /*#region Product*/
+    
+    .shoes{
+        flex-wrap: wrap;
+    }
+
+    /*#endregion Product*/
+
+    /*#region Makes*/
+    .makesLogo{
+        flex-wrap: wrap;
+    }
+    
+    /*#endregion Makes*/
+
+    /*#region Comments*/
+  
+    .peopleComments{
+        flex-direction: column;
+    }
+  
+    /*#endregion Comments*/
+
+    /*#region ContactUs*/
+   
+    .contactus{
+        padding-top: 30px;
+        flex-direction: column;
+    }
+
+    .locale iframe{
+        width: 350px;
+    }
+   
+    /*#endregion ContactUs*/
+
+   /*#region Footer*/
+   
+   .footer{
+    padding: 30px;
+    flex-wrap: wrap;
+    }
+    
+   /*#endregion Footer*/
+
+}
+
