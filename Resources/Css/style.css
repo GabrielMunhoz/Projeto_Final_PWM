@@ -298,12 +298,17 @@ h2::after{
     flex: 1 1 300px;
     gap: 20px;
 }
+.comment{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+}
+
 .comment h4{
     color: #ff7300;;
     font-weight: 600;
     font-size: 2rem;
-    margin-bottom: 0;
-    padding: 0;
+    
 }
 .comment p{
     text-indent: 10px;
@@ -371,6 +376,7 @@ legend{
 /*#region Footer*/
 
 footer{
+    padding: 30px;
     background-color: #000;
     display: flex;
     justify-content: space-evenly;
