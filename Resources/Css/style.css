@@ -148,7 +148,7 @@ header{
     text-align: center;
 }
 
-.copy h2{
+h2{
     color: black;
     font-weight: 600;
     font-family: 'Open sans';
@@ -164,7 +164,7 @@ header{
     justify-content: space-between;
     gap: 50px;
 }
-.product h2{
+h2{
     font-weight: 600;
     color: black;
     text-align: center;
@@ -232,6 +232,38 @@ header{
 
 /*#endregion Product*/
 
+/*#region Features*/
+
+.featuresSection{
+    text-align: center;
+}
+
+.features{
+    margin: 80px 0;
+    display: flex;
+    justify-content: space-between;
+    gap: 30px;
+}
+.feature{
+    text-align: start;
+    
+}
+.feature i{
+    font-size: 2rem;
+    color: #ff7300;
+    margin-bottom: 10px;
+}
+.feature h4{
+    font-size: 1.3rem;
+    text-transform: uppercase;
+    font-weight: 600;
+}
+.feature p{
+    text-align: justify;
+}
+
+/*#endregion Features*/
+
 /*#region Makes*/
 
 .makes{
@@ -281,8 +313,7 @@ header{
 }
 .comments h2{
     color: black;
-    font-weight: 600;
-    
+    font-weight: 600; 
 }
 h2::after{
     content: " ";
@@ -301,7 +332,7 @@ h2::after{
 .comment{
     display: flex;
     flex-direction: column;
-    justify-content: space-evenly;
+    margin-bottom: 30px;
 }
 
 .comment h4{
@@ -319,6 +350,7 @@ h2::after{
     gap: 10px;
 }
 .person img{
+    margin-top: 20px;
     width: 100px;
     height: 100px;
     border-radius: 50%;

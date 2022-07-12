@@ -33,6 +33,15 @@
 
     /*#endregion Product*/
 
+   /*#region Features*/
+   
+   .features{
+    display: flex;
+    flex-wrap: wrap;
+   }
+   
+   /*#endregion Features*/
+
     /*#region Makes*/
 
     .makesLogo{
@@ -42,6 +51,14 @@
     }
    
    /*#endregion Makes*/
+
+/*#region Comments*/
+
+.peopleComments{
+    flex-wrap: wrap;
+}
+
+/*#endregion Comments*/
 
     /*#region ContactUs*/
     
