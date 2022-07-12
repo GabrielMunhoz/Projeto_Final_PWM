@@ -38,6 +38,7 @@ $('.sliderSlick').slick({
 });
 	
 
+
 const menu = document.querySelector(".menu");
 const menuItems = document.querySelectorAll(".menuItem");
 const hamburger= document.querySelector(".hamburger");
@@ -64,3 +65,18 @@ function toggleMenu() {
 }
 
 hamburger.addEventListener("click", toggleMenu);
+
+
+//
+function onClickForm(){
+  let pName = $("[name|='pName']").val(); 
+  let email = $("[name|='email']").val(); 
+  let observation = $("[name|='observation']").val(); 
+
+  if(pName && email && observation){
+    alert(`Prezado(a) ${pName}, Seu Email foi Enviado!`)
+  }else{
+    alert('Insira os dados de Contato')
+  }
+}
+
