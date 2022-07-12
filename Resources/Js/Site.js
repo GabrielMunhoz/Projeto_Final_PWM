@@ -1,10 +1,12 @@
 
 $('.sliderSlick').slick({
   dots: true,
-  infinite: false,
+  infinite: true,
   speed: 300,
+  autoplay: true,
+  autoplaySpeed: 2000,
   slidesToShow: 4,
-  slidesToScroll: 4,
+  slidesToScroll: 1,
   responsive: [
     {
       breakpoint: 1400,
@@ -36,7 +38,6 @@ $('.sliderSlick').slick({
     // instead of a settings object
   ]
 });
-	
 
 
 const menu = document.querySelector(".menu");
