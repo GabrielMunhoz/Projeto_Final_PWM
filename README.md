@@ -8,15 +8,19 @@ https://gabrielmunhoz.github.io/Projeto_Final_PWM/#
 Mike Calçados is an application of static page that was developed in web development for mobile devices class.
 
 This app was developed to learn about HTML, CSS, JAVASCRIPT, was used many concepts like html semantic and frameworks like bootstrap, <br>and library js like JQuery
-<!--
+
 ## Layout mobile
-![Mobile 1](https://github.com/acenelio/assets/raw/main/sds1/mobile1.png) ![Mobile 2](https://github.com/acenelio/assets/raw/main/sds1/mobile2.png)
-
+![Mobile 1](https://github.com/GabrielMunhoz/Projeto_Final_PWM/blob/master/ProjectPWM-Assets/MobileView-1.png) 
+![Mobile 2](https://github.com/GabrielMunhoz/Projeto_Final_PWM/blob/master/ProjectPWM-Assets/MobileView-2.png)
+![Mobile 3](https://github.com/GabrielMunhoz/Projeto_Final_PWM/blob/master/ProjectPWM-Assets/MobileView-3.png)
+![Mobile 4](https://github.com/GabrielMunhoz/Projeto_Final_PWM/blob/master/ProjectPWM-Assets/MobileView-4.png)
 ## Layout web
-![Web 1](https://github.com/acenelio/assets/raw/main/sds1/web1.png)
+![Web 1](https://github.com/GabrielMunhoz/Projeto_Final_PWM/blob/master/ProjectPWM-Assets/WebView-1.png)
 
-![Web 2](https://github.com/acenelio/assets/raw/main/sds1/web2.png)
+![Web 2](https://github.com/GabrielMunhoz/Projeto_Final_PWM/blob/master/ProjectPWM-Assets/WebView-2.png)
+![Web 3](https://github.com/GabrielMunhoz/Projeto_Final_PWM/blob/master/ProjectPWM-Assets/WebView-3.png)
 
+<!--
 ## Modelo conceitual
 ![Modelo Conceitual](https://github.com/acenelio/assets/raw/main/sds1/modelo-conceitual.png)
 
