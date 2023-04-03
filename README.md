@@ -10,16 +10,19 @@ Mike Calçados is an application of static page that was developed in web develo
 This app was developed to learn about HTML, CSS, JAVASCRIPT, was used many concepts like html semantic and frameworks like bootstrap, <br>and library js like JQuery
 
 ## Layout mobile
-![Mobile 1](https://github.com/GabrielMunhoz/Projeto_Final_PWM/blob/master/ProjectPWM-Assets/MobileView-1.png) 
-![Mobile 2](https://github.com/GabrielMunhoz/Projeto_Final_PWM/blob/master/ProjectPWM-Assets/MobileView-2.png)
-![Mobile 3](https://github.com/GabrielMunhoz/Projeto_Final_PWM/blob/master/ProjectPWM-Assets/MobileView-3.png)
-![Mobile 4](https://github.com/GabrielMunhoz/Projeto_Final_PWM/blob/master/ProjectPWM-Assets/MobileView-4.png)
+<p>
+<img src="https://github.com/GabrielMunhoz/Projeto_Final_PWM/blob/master/ProjectPWM-Assets/MobileView-1.png" height="500px" width="230px"/> 
+<img src="https://github.com/GabrielMunhoz/Projeto_Final_PWM/blob/master/ProjectPWM-Assets/MobileView-2.png" height="500px" width="230px"/> 
+<img src="https://github.com/GabrielMunhoz/Projeto_Final_PWM/blob/master/ProjectPWM-Assets/MobileView-3.png" height="500px" width="230px"/> 
+<img src="https://github.com/GabrielMunhoz/Projeto_Final_PWM/blob/master/ProjectPWM-Assets/MobileView-4.png" height="500px" width="230px"/> 
+</p>
+
 ## Layout web
-![Web 1](https://github.com/GabrielMunhoz/Projeto_Final_PWM/blob/master/ProjectPWM-Assets/WebView-1.png)
-
-![Web 2](https://github.com/GabrielMunhoz/Projeto_Final_PWM/blob/master/ProjectPWM-Assets/WebView-2.png)
-![Web 3](https://github.com/GabrielMunhoz/Projeto_Final_PWM/blob/master/ProjectPWM-Assets/WebView-3.png)
-
+<p>
+<img src="https://github.com/GabrielMunhoz/Projeto_Final_PWM/blob/master/ProjectPWM-Assets/WebView-1.png" height="250px" width="450px"/> 
+<img src="https://github.com/GabrielMunhoz/Projeto_Final_PWM/blob/master/ProjectPWM-Assets/WebView-2.png" height="250px" width="450px"/>
+<img src="https://github.com/GabrielMunhoz/Projeto_Final_PWM/blob/master/ProjectPWM-Assets/WebView-3.png" height="250px" width="450px"/>
+</p>
 <!--
 ## Modelo conceitual
 ![Modelo Conceitual](https://github.com/acenelio/assets/raw/main/sds1/modelo-conceitual.png)
